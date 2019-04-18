@@ -124,6 +124,8 @@ return [
         'Magento_CatalogWidget' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Magento_WishlistAnalytics' => 1,
+        'S4p_Customattribute' => 1,
+        'S4p_Custominvoicecloumn' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
     ]
